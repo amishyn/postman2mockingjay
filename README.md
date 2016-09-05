@@ -31,7 +31,9 @@ https://github.com/quii/mockingjay-server
 
 ### Usage
 
-NO_REQUEST_HEADERS=1 INPUT='' OUTPUT='' postman2mockingjay
+```
+NO_REQUEST_HEADERS=1 INPUT='path/to/postmap/collection/v2' OUTPUT='path/to/yml' postman2mockingjay
+```
 
 ## Development
 
